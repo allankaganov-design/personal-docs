@@ -24,11 +24,11 @@
         "href": "https://www.premierleague.com/clubs/3/Arsenal/overview"
       }
     ],
-"primary": {
-  "type": "button",
-  "label": "2026/27 Season",
-  "href": "/champions-league/blueprint"
-}
+    "primary": {
+      "type": "button",
+      "label": "2026/27 Season",
+      "href": "/champions-league/blueprint"
+    }
   },
   "footer": {
     "socials": {
